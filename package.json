@@ -1,0 +1,26 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "shoppingcart project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliseycsm/shoppingcart.git"
+  },
+  "keywords": [
+    "day04"
+  ],
+  "author": "elise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliseycsm/shoppingcart/issues"
+  },
+  "homepage": "https://github.com/eliseycsm/shoppingcart#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
